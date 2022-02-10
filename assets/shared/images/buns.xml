@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buns.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bunsbop0000" x="0" y="0" width="251" height="234" frameX="-1" frameY="-13" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0001" x="0" y="0" width="251" height="234" frameX="-1" frameY="-13" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0002" x="251" y="0" width="245" height="240" frameX="0" frameY="-7" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0003" x="251" y="0" width="245" height="240" frameX="0" frameY="-7" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0004" x="496" y="0" width="240" height="244" frameX="0" frameY="-4" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0005" x="496" y="0" width="240" height="244" frameX="0" frameY="-4" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0006" x="736" y="0" width="240" height="248" frameX="0" frameY="0" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0007" x="736" y="0" width="240" height="248" frameX="0" frameY="0" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0008" x="976" y="0" width="240" height="248" frameX="0" frameY="0" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0009" x="976" y="0" width="240" height="248" frameX="0" frameY="0" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0010" x="1216" y="0" width="240" height="246" frameX="0" frameY="-2" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0011" x="1216" y="0" width="240" height="246" frameX="0" frameY="-2" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0012" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0013" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0014" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0015" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0016" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0017" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0018" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0019" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0020" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0021" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0022" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+	<SubTexture name="bunsbop0023" x="1456" y="0" width="239" height="245" frameX="0" frameY="-3" frameWidth="252" frameHeight="248"/>
+</TextureAtlas>
