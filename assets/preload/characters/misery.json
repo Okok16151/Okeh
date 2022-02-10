@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "miseryidle"
+		},
+		{
+			"offsets": [
+				21,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "miseryleft"
+		},
+		{
+			"offsets": [
+				-6,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "miseryright"
+		},
+		{
+			"offsets": [
+				5,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "miseryup"
+		},
+		{
+			"offsets": [
+				-6,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "miserydown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/misery",
+	"position": [
+		-40,
+		30
+	],
+	"healthicon": "misery",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		161,
+		221
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
