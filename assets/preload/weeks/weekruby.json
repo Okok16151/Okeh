@@ -1,0 +1,49 @@
+{
+	"storyName": "The Happiest Girl In The World",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "ruby",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Gloomy",
+			"ruby",
+			[
+				146,
+				0,
+				75
+			]
+		],
+		[
+			"Twilight",
+			"ruby",
+			[
+				146,
+				0,
+				75
+			]
+		],
+		[
+			"Miserable",
+			"misery",
+			[
+				46,
+				40,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Ruby's Week"
+}
