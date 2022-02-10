@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ruby.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rubydown0000" x="0" y="0" width="457" height="684" frameX="-3" frameY="-27" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0001" x="0" y="0" width="457" height="684" frameX="-3" frameY="-27" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0002" x="457" y="0" width="457" height="712" frameX="0" frameY="0" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0003" x="457" y="0" width="457" height="712" frameX="0" frameY="0" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0004" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0005" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0006" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0007" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0008" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0009" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0010" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0011" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0012" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubydown0013" x="914" y="0" width="458" height="709" frameX="0" frameY="-2" frameWidth="460" frameHeight="712"/>
+	<SubTexture name="rubyidle0000" x="1372" y="0" width="512" height="732" frameX="0" frameY="-2" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0001" x="1372" y="0" width="512" height="732" frameX="0" frameY="-2" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0002" x="1884" y="0" width="499" height="728" frameX="-3" frameY="-6" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0003" x="1884" y="0" width="499" height="728" frameX="-3" frameY="-6" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0004" x="2383" y="0" width="471" height="735" frameX="-7" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0005" x="2383" y="0" width="471" height="735" frameX="-7" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0006" x="2854" y="0" width="464" height="735" frameX="-8" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0007" x="2854" y="0" width="464" height="735" frameX="-8" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0008" x="3318" y="0" width="459" height="735" frameX="-9" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0009" x="3318" y="0" width="459" height="735" frameX="-9" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0010" x="0" y="735" width="457" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0011" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0012" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0013" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0014" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0015" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0016" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0017" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0018" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0019" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0020" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0021" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0022" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyidle0023" x="457" y="735" width="456" height="735" frameX="-10" frameY="0" frameWidth="512" frameHeight="735"/>
+	<SubTexture name="rubyleft0000" x="913" y="735" width="474" height="745" frameX="0" frameY="0" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0001" x="913" y="735" width="474" height="745" frameX="0" frameY="0" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0002" x="1387" y="735" width="457" height="737" frameX="-33" frameY="-8" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0003" x="1387" y="735" width="457" height="737" frameX="-33" frameY="-8" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0004" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0005" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0006" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0007" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0008" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0009" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0010" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0011" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0012" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyleft0013" x="1844" y="735" width="458" height="736" frameX="-31" frameY="-9" frameWidth="490" frameHeight="745"/>
+	<SubTexture name="rubyright0000" x="2302" y="735" width="485" height="756" frameX="-19" frameY="0" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0001" x="2302" y="735" width="485" height="756" frameX="-19" frameY="0" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0002" x="2787" y="735" width="468" height="746" frameX="0" frameY="-9" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0003" x="2787" y="735" width="468" height="746" frameX="0" frameY="-9" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0004" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0005" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0006" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0007" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0008" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0009" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0010" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0011" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0012" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyright0013" x="3255" y="735" width="469" height="747" frameX="-2" frameY="-8" frameWidth="504" frameHeight="756"/>
+	<SubTexture name="rubyup0000" x="0" y="1491" width="497" height="790"/>
+	<SubTexture name="rubyup0001" x="0" y="1491" width="497" height="790"/>
+	<SubTexture name="rubyup0002" x="497" y="1491" width="473" height="754" frameX="-22" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0003" x="497" y="1491" width="473" height="754" frameX="-22" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0004" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0005" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0006" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0007" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0008" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0009" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0010" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0011" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0012" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+	<SubTexture name="rubyup0013" x="970" y="1491" width="474" height="754" frameX="-20" frameY="-36" frameWidth="497" frameHeight="790"/>
+</TextureAtlas>
